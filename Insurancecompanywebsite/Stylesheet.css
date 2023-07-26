@@ -1,0 +1,26 @@
+body{
+    background-color: #f0edac;
+}
+.blocktext{
+    float: left;
+    width: 254px;
+    height: 110px;
+    font-family: Open 'Times New Roman', Times, serif;
+    font-size: 15px;
+    font-weight: bold;
+    color: #333333;
+    margin-left: 10px;
+    text-align: left;
+    line-height: 1.6em;
+    padding-left: 22px;
+    margin-top: 3px;
+    margin-left: 0px;
+}
+.button{
+    width: 170px; 
+    color: purple; 
+    background-color: red;
+    font-size: xx-large;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
